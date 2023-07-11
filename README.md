@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Studio%20app&fontSize=70&fontAlign=75&fontAlignY=40)
+
 # 😎 Studio David shrigley
 
 포트폴리오 사이트 설명 ... <br>
