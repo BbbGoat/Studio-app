@@ -7,7 +7,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbbbgoat.github.io%2FStudio-app%2F&count_bg=%23000000&title_bg=%23FFABAB&icon=github.svg&icon_color=%23F3F3F3&title=Studio+D.SHRIG&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 <h2>🤸‍♂️ 부가적으로 설명할 부분</h2>
 
 <img src="" />
