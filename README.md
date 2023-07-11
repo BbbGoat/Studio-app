@@ -1,4 +1,4 @@
-# 😎 Studio David Shrigly
+# 😎 Studio David shrigley
 
 포트폴리오 사이트 설명 ... <br>
 사용언어 설명 ... <br>
