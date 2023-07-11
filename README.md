@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Studio%20app&fontColor=fff&fontSize=70&fontAlign=75&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=Studio%20app&fontColor=fff&fontSize=70&fontAlign=75&fontAlignY=40)
+
 
 # 😎 Studio David shrigley
 
