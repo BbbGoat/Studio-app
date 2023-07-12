@@ -42,8 +42,13 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 
 다양한 상호작용 그래픽 요소들이 있습니다.
 
-<img src="https://user-images.githubusercontent.com/120539949/252865447-f97ad51f-4357-4340-956c-ec2252e53d6e.gif" />
+<img src="https://user-images.githubusercontent.com/120539949/252867059-e14ce744-70f5-4b25-847a-f01c0c401b20.gif" width="500px" />
+<img src="https://user-images.githubusercontent.com/120539949/252867748-c922d3ff-8ed5-4959-881f-611f59e12b4a.gif" width="500px" />
+<img src="https://user-images.githubusercontent.com/120539949/252865447-f97ad51f-4357-4340-956c-ec2252e53d6e.gif" width="500px" />
+<img src="https://user-images.githubusercontent.com/120539949/252867792-ee1388de-1b89-44b2-9908-51966ecb7e28.gif" width="500px" />
 <br>
+
+
 
 ### 📎 더 자세한 가이드라인이 필요하다면?
 
