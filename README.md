@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=Studio%20app&fontColor=fff&fontSize=70&fontAlign=75&fontAlignY=40)
 
 
-### 🎨 Studio David shrigley
+# 🎨 Studio David shrigley
 
 포트폴리오 사이트 설명 ... <br>
 사용언어 설명 ... <br>
@@ -20,7 +20,7 @@
 
 <br>
 
-### 🤸‍♂️ 부가적으로 설명할 부분
+## 🤸‍♂️ 부가적으로 설명할 부분
 
 <img src="" />
 사이트맵 전체적인 구조도 들어갈 부분 <br>
