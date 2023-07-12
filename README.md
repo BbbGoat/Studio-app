@@ -30,6 +30,7 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 아래는 세부적인 사이트 구성 설명입니다.<br>
 사이트 이용에 참고해주세요!
 
+<br>
 
 ### 구조도
 
@@ -39,12 +40,14 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 서브페이지는 메뉴의 INFO / WORK / CONTACT 란이고 <br>
 디테일페이지는 WORK(서브페이지)의 리스트 클릭시 해당 페이지로 연결됩니다.
 
+<br>
 
 ### 그래픽요소
 
 사이트의 포인트가 되는 그래픽 요소들입니다. <br>
 사용자의 흥미를 유발하기 위해 다양한 이벤트를 사용했습니다.
 
+<br>
 <img src="https://user-images.githubusercontent.com/120539949/252867059-e14ce744-70f5-4b25-847a-f01c0c401b20.gif" width="400px" />
 <img src="https://user-images.githubusercontent.com/120539949/252867748-c922d3ff-8ed5-4959-881f-611f59e12b4a.gif" width="400px" />
 <img src="https://user-images.githubusercontent.com/120539949/252865447-f97ad51f-4357-4340-956c-ec2252e53d6e.gif" width="400px" />
@@ -52,6 +55,9 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 <br>
 
 
+<br>
+<br>
+<br>
 
 
 ### 📎 더 자세한 가이드라인이 필요하다면?
@@ -65,8 +71,5 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 
 
 <br><br><br><br><br><br><br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbbbgoat.github.io%2FStudio-app%2F&count_bg=%23000000&title_bg=%23FFABAB&icon=github.svg&icon_color=%23F3F3F3&title=Studio+D.SHRIG&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 </div>
