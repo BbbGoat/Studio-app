@@ -27,26 +27,30 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 
 ## 🖌 사이트 미리보기
 
-아래는 사이트의 세부 구성입니다.<br>
-이용에 참고해주세요!
+아래는 세부적인 사이트 구성 설명입니다.<br>
+사이트 이용에 참고해주세요!
 
 
 ### 구조도
 
 <img src="" />
 
-사이트맵 전체적인 구조도 들어갈 부분 <br>
+사이트는 메인페이지, 서브페이지, 디테일페이지로 구성됐습니다. <br>
+서브페이지는 메뉴의 INFO / WORK / CONTACT 란이고 <br>
+디테일페이지는 WORK(서브페이지)의 리스트 클릭시 해당 페이지로 연결됩니다.
 
 
-### 메뉴
+### 그래픽요소
 
-다양한 상호작용 그래픽 요소들이 있습니다.
+사이트의 포인트가 되는 그래픽 요소들입니다. <br>
+사용자의 흥미를 유발하기 위해 다양한 이벤트를 사용했습니다.
 
-<img src="https://user-images.githubusercontent.com/120539949/252867059-e14ce744-70f5-4b25-847a-f01c0c401b20.gif" width="500px" />
-<img src="https://user-images.githubusercontent.com/120539949/252867748-c922d3ff-8ed5-4959-881f-611f59e12b4a.gif" width="500px" />
-<img src="https://user-images.githubusercontent.com/120539949/252865447-f97ad51f-4357-4340-956c-ec2252e53d6e.gif" width="500px" />
-<img src="https://user-images.githubusercontent.com/120539949/252867792-ee1388de-1b89-44b2-9908-51966ecb7e28.gif" width="500px" />
+<img src="https://user-images.githubusercontent.com/120539949/252867059-e14ce744-70f5-4b25-847a-f01c0c401b20.gif" width="400px" />
+<img src="https://user-images.githubusercontent.com/120539949/252867748-c922d3ff-8ed5-4959-881f-611f59e12b4a.gif" width="400px" />
+<img src="https://user-images.githubusercontent.com/120539949/252865447-f97ad51f-4357-4340-956c-ec2252e53d6e.gif" width="400px" />
+<img src="https://user-images.githubusercontent.com/120539949/252867792-ee1388de-1b89-44b2-9908-51966ecb7e28.gif" width="400px" />
 <br>
+
 
 
 
