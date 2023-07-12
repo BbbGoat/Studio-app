@@ -1,7 +1,6 @@
 
 <div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Studio%20app&fontColor=fff&fontSize=70&fontAlign=75&fontAlignY=40)
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=Studio%20app&fontColor=fff&fontSize=70&fontAlign=75&fontAlignY=40)
 
 
@@ -43,8 +42,7 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 
 다양한 상호작용 그래픽 요소들이 있습니다.
 
-<img src="https://github.com/BbbGoat/Studio-app/issues/1#issue-1800222663" />
-
+<img src="https://user-images.githubusercontent.com/120539949/252865447-f97ad51f-4357-4340-956c-ec2252e53d6e.gif" />
 <br>
 
 ### 📎 더 자세한 가이드라인이 필요하다면?
