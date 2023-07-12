@@ -45,7 +45,7 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 ### 그래픽요소
 
 사이트의 포인트가 되는 그래픽 요소들입니다. <br>
-사용자의 흥미를 유발하기 위해 다양한 이벤트를 사용했습니다.
+사용자의 흥미를 유발하기 위해 다양한 이벤트를 사용했습니다.<br>
 
 <br>
 <img src="https://user-images.githubusercontent.com/120539949/252867059-e14ce744-70f5-4b25-847a-f01c0c401b20.gif" width="400px" />
@@ -63,13 +63,5 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 ### 📎 더 자세한 가이드라인이 필요하다면?
 
 📋 <a href="https://bbbgoat.github.io/FED-PJ-WBS-SAEM/03.SPA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/04.%EA%B0%80%EC%9D%B4%EB%93%9C%EB%AC%B8%EC%84%9C/230629_%EC%9A%B0%EC%83%88%EB%AF%B8_3rdPJ_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf">이 문서를 참고해주세요!</a>
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br>
 
 </div>
