@@ -10,7 +10,8 @@
 레퍼런스였던 에이전시 사이트 Studio Brot의 독특한 느낌을 살려서<br>
 독창적인 작품을 만드는 아티스트 David Shrigley의 홍보 사이트로 재구성 했습니다.<br>
 Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했습니다.<br>
-👉 <a href="https://bbbgoat.github.io/Studio-app/">사이트를 보고싶다면 여기를 클릭하세요!</a>
+👉 <a href="https://bbbgoat.github.io/Studio-app/">사이트를 보고싶다면 여기를 클릭하세요!</a> <br>
+📋 <a href="https://bbbgoat.github.io/FED-PJ-WBS-SAEM/03.SPA%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/04.%EA%B0%80%EC%9D%B4%EB%93%9C%EB%AC%B8%EC%84%9C/230629_%EC%9A%B0%EC%83%88%EB%AF%B8_3rdPJ_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf">+ 가이드문서</a>
 
 <br>
 
