@@ -34,7 +34,7 @@ Canvas와 다양한 라이브러리를 활용해 그래픽 요소를 표현했�
 
 ### 🖌 구조도
 
-<img src="" />
+![page](https://user-images.githubusercontent.com/120539949/255511124-e17c7ee9-6ec9-4b59-b6a8-9d92f5476217.png)
 
 사이트는 메인페이지, 서브페이지, 디테일페이지로 구성됐습니다. <br>
 서브페이지는 메뉴의 INFO / WORK / CONTACT 란이고 <br>
