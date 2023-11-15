@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Studio-app/static/css/main.cab4fa96.css",
-    "main.js": "/Studio-app/static/js/main.fb4a83a6.js",
+    "main.js": "/Studio-app/static/js/main.26520acb.js",
     "static/media/SWAN-1.webp": "/Studio-app/static/media/SWAN-1.1268f285bd761b98acd6.webp",
     "static/media/SWAN-M1.webp": "/Studio-app/static/media/SWAN-M1.11f849c56ea4d21c6e7d.webp",
     "static/media/mouse.svg": "/Studio-app/static/media/mouse.a4df845e143bee498a82.svg",
     "index.html": "/Studio-app/index.html",
     "main.cab4fa96.css.map": "/Studio-app/static/css/main.cab4fa96.css.map",
-    "main.fb4a83a6.js.map": "/Studio-app/static/js/main.fb4a83a6.js.map"
+    "main.26520acb.js.map": "/Studio-app/static/js/main.26520acb.js.map"
   },
   "entrypoints": [
     "static/css/main.cab4fa96.css",
-    "static/js/main.fb4a83a6.js"
+    "static/js/main.26520acb.js"
   ]
 }
